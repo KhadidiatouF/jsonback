@@ -1,0 +1,155 @@
+{
+    "utilisateurs": [
+      {
+        "id": "1",
+        "pays": "fr",
+        "nom": "Khadija",
+        "prenom": "Fall",
+        "numero": "+33612345678",
+        "Online": true,
+        "archive": true,
+        "messages": [
+          {
+            "from": 2,
+            "to": 1,
+            "contenu": "Nkamou",
+            "timestamp": "2025-06-05T12:00:00"
+          },
+          {
+            "from": 1,
+            "to": 2,
+            "contenu": "Salut",
+            "timestamp": "2025-06-05T12:00:00"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "pays": "sn",
+        "nom": "Jamila",
+        "prenom": "NDiaye",
+        "numero": "+221784318598",
+        "Online": true,
+        "archive": true,
+        "messages": [
+          {
+            "from": 2,
+            "to": 1,
+            "contenu": "Oui bonjour",
+            "timestamp": "2025-06-05T12:00:00"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "pays": "us",
+        "nom": "Bakary",
+        "prenom": "Diassy",
+        "numero": "+12023341234",
+        "Online": true,
+        "archive": true,
+        "messages": [
+          {
+            "from": 2,
+            "to": 1,
+            "contenu": "Hi what's up",
+            "timestamp": "2025-06-05T12:00:00"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "numero": "+221789988001",
+        "nom": "aly",
+        "prenom": "breukh",
+        "pays": "sn",
+        "Online": false,
+        "archive": false,
+        "messages": [
+          {
+            "from": 5,
+            "to": 4,
+            "contenu": "Coucou",
+            "timestamp": "2025-06-05T12:00:00"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "numero": "+221789988009",
+        "nom": "anna",
+        "prenom": "sock",
+        "pays": "sn",
+        "Online": false,
+        "archive": false,
+        "messages": [
+          {
+            "from": 4,
+            "to": 5,
+            "contenu": "No def",
+            "timestamp": "2025-06-05T12:00:00"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "nom": "hhh",
+        "prenom": "breukh",
+        "pays": "us",
+        "numero": "+1789988002",
+        "Online": false,
+        "archive": false,
+        "messages": [
+          {
+            "contenu": ""
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "numero": "+221789988007",
+        "nom": "REF DIG 2018",
+        "prenom": "breukh",
+        "pays": "sn",
+        "Online": false,
+        "archive": false,
+        "messages": []
+      }
+    ],
+    "groupes": [
+      {
+        "id": "1",
+        "nom": "P7 dev/web",
+        "membres": [
+          {
+            "nom": "Jamila",
+            "prenom": "Ndiaye",
+            "statut": "Admin",
+            "numero": "+221784318598",
+            "messages": [
+              {
+                "expediteur": "Jamila",
+                "contenu": "Salut la famille",
+                "heure": "10:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "nom": "P7 dev/web2",
+        "membres": [
+          {
+            "nom": "OUZ",
+            "messages": []
+          }
+        ]
+      }
+    ],
+    "conversations":[
+      {
+        
+      }
+    ]
+  }
